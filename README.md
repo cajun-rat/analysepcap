@@ -10,3 +10,8 @@ in 'metrics.spec'.
 It targets Visual Studio on Windows at the moment, but should be simple to port
 to Linux.
 
+A prebuilt version is available from:
+
+ http://files.phil-wise.com/analysepcap/Analyse.exe
+
+
